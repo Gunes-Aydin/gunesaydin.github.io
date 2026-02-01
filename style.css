@@ -53,3 +53,10 @@ nav { background: #0F172A; padding: 20px 0; }
     border-radius: 4px;
     font-weight: bold;
 }
+.about-content { max-width: 800px; margin-top: 40px; }
+.lead-text { font-size: 1.25rem; line-height: 1.8; color: #1e293b; margin-bottom: 30px; border-left: 4px solid #0F172A; padding-left: 20px; }
+.expertise-list h3 { font-size: 1.5rem; margin-bottom: 20px; color: #0F172A; }
+.expertise-list ul { list-style: none; padding: 0; }
+.expertise-list li { margin-bottom: 15px; font-size: 1.1rem; color: #475569; }
+.expertise-list li strong { color: #0F172A; }
+.professional-note { margin-top: 40px; font-style: italic; color: #64748B; border-top
